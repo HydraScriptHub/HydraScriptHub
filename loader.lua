@@ -5,7 +5,7 @@ local Games = {
 }
 
 
-local gameId = game.PlaceId
+local gameId = game.GameId
 
 if Games[gameId] then
 
