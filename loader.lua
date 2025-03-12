@@ -1,6 +1,6 @@
 local Games = {
-    [15101393044] = "https://raw.githubusercontent.com/HydraScriptHub/HydraScriptHubDTI/main/script.lua", -- DTI
-    [987654321] = "https://raw.githubusercontent.com/HydraScriptHub/HydraScriptHubWW/main/script.lua", -- WW
+    [5203828273] = "https://raw.githubusercontent.com/HydraScriptHub/HydraScriptHubDTI/main/script.lua", -- DTI
+    [5939817752] = "https://raw.githubusercontent.com/HydraScriptHub/HydraScriptHubWW/main/script.lua", -- WW
 
 }
 
